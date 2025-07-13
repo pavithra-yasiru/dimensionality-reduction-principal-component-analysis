@@ -1,1 +1,1 @@
-# dimensionality_reduction_principal-component-analysis
+# dimensionality-reduction-principal-component-analysis
